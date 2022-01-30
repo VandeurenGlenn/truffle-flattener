@@ -20,7 +20,7 @@
   "author": "Nomic Labs SRL",
   "license": "MIT",
   "dependencies": {
-    "@resolver-engine/imports-fs": "^0.2.2",
+    "@resolver-engine/imports-fs": "^0.3.3",
     "@solidity-parser/parser": "^0.13.0-rc.8",
     "find-up": "^2.1.0",
     "mkdirp": "^1.0.4",
